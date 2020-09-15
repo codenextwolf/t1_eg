@@ -1,7 +1,7 @@
 # t1_eg
 
 ### api_req_eg
-Simple API request example/starter. 2 routes that print weather and Covid data (OpenWeatherMap & Covid19Api)
+Simple API request example/starter. 2 routes that print weather and Covid data (OpenWeatherMap & Covid19Api) to the console. 
 
 ### web_server_eg
 Simple web server example/starter. Serves up static html/css files and a dynamic route using Jinja templating. 
