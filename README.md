@@ -9,7 +9,7 @@ Dependencies:
 - pip install requests
 
 ### web_server_eg
-Simple web server example/starter. Serves up static html/css files. There is also a route with dynamic content using Jinja templating at /(name) that will greet the (name).
+Simple web server example/starter. Serves up static html/css files. There is also a route with dynamic content using Jinja templating at /hello/(name) that will greet the (name).
 
 Dependencies:
 - pip install flask
